@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "firstApp",
-    "slug": "firstApp",
+    "slug": "todolearningproject",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ac630d4f-493c-47ea-ab20-fc7e760cd0a8"
+      }
+    },
+    "owner": "luca_barboza_mendonca"
   }
 }
